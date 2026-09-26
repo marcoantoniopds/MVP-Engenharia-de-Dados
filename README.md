@@ -24,7 +24,7 @@ Fonte TSE → Bronze → Silver → Gold — Esquema Estrela → Gold Flat → A
 ## Arquivos do projeto
 
 - [Notebook principal do projeto](./MVP%20Engenharia%20de%20Dados.ipynb)
-- [Relatório final em PDF](./Relatório%20%20MVP%20Engenharia%20de%20Dados.pdf)
+- [Relatório final em PDF](./Relatório%20MVP%20Engenharia%20de%20Dados.pdf)
 - [Imagens do catálogo](./Imagens%20de%20Catálogos/)
 
 ## Autor
