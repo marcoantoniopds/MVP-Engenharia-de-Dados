@@ -21,6 +21,14 @@ O objetivo é consolidar esses dados por meio de um pipeline de Engenharia de Da
 
 Fonte TSE → Bronze → Silver → Gold — Esquema Estrela → Gold Flat → Análises SQL
 
+## Arquivos do projeto
+
+- [Notebook principal do projeto](./MVP%20Engenharia%20de%20Dados.ipynb)
+- [Relatório final em PDF](./PDF%20MVP%20Engenharia%20de%20Dados.pdf)
+- [Imagens do catálogo](./Imagens%20de%20Catálogos/)
+
+## Autor
+
 ## Autor
 
 Nome: Marco Antonio Pereira da Silva
