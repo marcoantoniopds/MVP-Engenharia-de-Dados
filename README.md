@@ -29,8 +29,6 @@ Fonte TSE → Bronze → Silver → Gold — Esquema Estrela → Gold Flat → A
 
 ## Autor
 
-## Autor
-
 Nome: Marco Antonio Pereira da Silva
 
 Contato: marcoantoniopds@icloud.com
