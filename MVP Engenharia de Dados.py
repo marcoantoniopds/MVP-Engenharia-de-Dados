@@ -45,9 +45,14 @@ from pyspark.sql.functions import sum as spark_sum
 # MAGIC - Base de despesas eleitorais contratadas (prestação de contas até o dia 24/09/2026) - https://dadosabertos.tse.jus.br/dataset/prestacao-de-contas-eleitorais-2026#
 # MAGIC - Base de perfil do eleitorado - https://dadosabertos.tse.jus.br/dataset/eleitorado-atual#
 # MAGIC
-# MAGIC Os três arquivos foram armazenados manualmente no volume do Databricks abaixo, tendo em vista o tamanho das tabelas e o objetivo principal para responder os questionamentos acima. Também estarão disponíveis no diretório Github onde se ecnontra este notebook.
+# MAGIC Os três arquivos foram armazenados manualmente no volume do Databricks abaixo, tendo em vista o tamanho das tabelas e o objetivo principal para responder os questionamentos acima. 
 # MAGIC
 # MAGIC `/Volumes/workspace/default/MVP_Engenharia_de_Dados`
+# MAGIC
+# MAGIC Devido ao tamanho dos arquivos (+2GB) não será possível disponibilizá-los pelo GITHUB, que limite os uploads em até 25mb.
+# MAGIC
+# MAGIC ![{C709E751-48A2-45AB-86D6-55B243F8C739}_1790433907437.png](./{C709E751-48A2-45AB-86D6-55B243F8C739}_1790433907437.png "{C709E751-48A2-45AB-86D6-55B243F8C739}_1790433907437.png")
+# MAGIC
 # MAGIC
 # MAGIC Todos os três resultados representam o snapshot dos arquivos disponíveis na data de execução do projeto
 
