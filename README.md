@@ -23,10 +23,10 @@ Fonte TSE → Bronze → Silver → Gold — Esquema Estrela → Gold Flat → A
 
 ## Arquivos do projeto
 
-- [Notebook principal do projeto](<./MVP Engenharia de Dados.ipynb>)
-- [Notebook completo com outputs](<./MVP Engenharia de Dados Com Outputs.ipynb>)
-- [Relatório final em PDF](<./Relatório MVP Engenharia de Dados.pdf>)
-- [Imagens do catálogo](<./Imagens de Catálogos/>)
+- [Notebook principal](./MVP%20Engenharia%20de%20Dados.ipynb)
+- [Notebook com outputs](./MVP%20Engenharia%20de%20Dados%20Com%20Outputs.ipynb)
+- [Relatório final em PDF](./Relatório%20MVP%20Engenharia%20de%20Dados.pdf)
+- [Imagens do catálogo](./Imagens%20do%20Catálogo/)
 
 ### Sobre os notebooks
 
